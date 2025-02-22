@@ -1,8 +1,6 @@
-Hi, this is the first program I've ever written in Go. Feedback is welcome, and expect strange code. This is essentially a proof of concept, I will be implementing more API interactions later, and I'll be finding a better way to actually publish the functionality, I'm not a huge fan of the web server setup. **This also might be against the Spotify TOS to actually use...**
-
 # spotify-api-tool-go
 
-This program uses the Spotify Web Player API to recreate missing functionality from the Spotify Developer API. Specifically, this allows you to **retrieve user followers**, which has been a largely requested feature among the Spotify developer community. The program itself is a locally hosted web server with endpoints to interact with the Spotify API. I'll work on a different implementation of the actual functionality later.
+⚠ Don't use this, it's probably against Spotify ToS. But look at how the code works if you're a beginner who wants to learn more about APIs. I wrote this program because I wanted to investigate an API myself and try to re-implement its basic functionality. The Golang version of this program was written so I could learn more about Golang.
 
 ### Usage
 
